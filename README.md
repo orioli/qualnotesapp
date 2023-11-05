@@ -45,7 +45,7 @@ QualNotes is a research methods tool for qualitative data collection. Functional
 
 ## How to Use
 
-![Video Tutorial](http://qualnotes.com/video1.mp4)
+![Video Tutorial](http://qualnotes.com/)
 
 ## More Tutorials
 
