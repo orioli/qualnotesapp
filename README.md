@@ -43,9 +43,6 @@ QualNotes is a research methods tool for qualitative data collection. Functional
 - Email: info [at] qualnotes.com
 - For more dedicated support, please visit our [Support Page](https://www.qualnotes.com/support.html).
 
-## How to Use
-
-![Video Tutorial](http://qualnotes.com/)
 
 ## More Tutorials
 
