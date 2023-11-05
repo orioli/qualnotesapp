@@ -1,4 +1,4 @@
-// Copyright 2023 Jose Berengeueres
+// Copyright 2023 Jose Berengueres
 
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_ui_auth/firebase_ui_auth.dart';
