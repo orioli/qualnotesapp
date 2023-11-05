@@ -5,15 +5,15 @@ QualNotes is a firebase / flutter app based on Provider and openstreetmap  desig
 ## Get the App
 
 <a href="https://play.google.com/store/apps/details?id=com.qualnotes.qualnote">
-  <img src="http://www.qualnotes.com/google-play-badge.png" width="100px" alt="Google Play Store">
+  <img src="http://www.qualnotes.com/google-play-badge.png" height="40px"  alt="Google Play Store">
 </a>
 
 <a href="https://apps.apple.com/app/qualnote/id1640227388">
-  <img src="http://www.qualnotes.com/apl_badge.svg" width="100px" alt="Apple Store">
+  <img src="http://www.qualnotes.com/apl_badge.svg" height="40px"  alt="Apple Store">
 </a>
 
 <a href="http://www.qualnotes.com/gotolead.html">
-  <img src="http://www.qualnotes.com/mac_app_store.png" width="100px" alt="Mac App Store">
+  <img src="http://www.qualnotes.com/mac_app_store.png" height="40px" alt="Mac App Store">
 </a>
 
 WebApp (to view in the browser)
